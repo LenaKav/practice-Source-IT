@@ -35,4 +35,3 @@ if ( A() === B() ){
     console.log("Error")
 }
 // console.log("All Okay")
-
